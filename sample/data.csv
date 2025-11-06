@@ -1,0 +1,7 @@
+email,first_name,company,custom_message,unsubscribe_url
+batham.tushar2001@gmail.com,Alice,Acme,"Loved your blog on data infra!",https://example.com/unsub?u=alice
+tusharbathm15@gmail.com,Bob,Globex,"Quick idea about your Q4 goals",https://example.com/unsub?u=bob
+akshat@builtattic.com,Akshat,BuiltAttic,"Let's collaborate on AI projects!",https://example.com/unsub?u=akshat
+arish@builtattic.com,Arish,BuiltAttic,"Check out our new features.",https://example.com/unsub?u=arish
+sakshi@builtattic.com, Sakshi,BuiltAttic,"Invitation to our webinar.",https://example.com/unsub?u=sakshi
+pratyush@builtattic.com,Pratyush,BuiltAttic,"Feedback on your recent article.",https://example.com/unsub?u=pratyush

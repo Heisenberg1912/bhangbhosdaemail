@@ -1,0 +1,11 @@
+Hi {{ first_name }},
+
+
+I noticed {{ company }} recently… {{ custom_message }}
+
+
+Best,
+Tushar
+
+
+Unsubscribe: {{ unsubscribe_url }}
